@@ -69,6 +69,16 @@ Include = EVERYTHING
 Exclude =
 Edit = EVERYTHING
 
+Name = Stupid Cat
+Include = EVERYTHING
+Exclude =
+Edit = EVERYTHING
+
+Name = AberrantQuerist
+Include = EVERYTHING
+Exclude =
+Edit = EVERYTHING
+
 Name = Lazy Master
 Include = EVERYTHING
 Exclude = AUTOADMIN

@@ -508,6 +508,8 @@
 		spawn(rand(3, 7))
 			face_atom(source)
 	last_annoy = world.time
+	if(!socialrole)
+		return
 	var/phrase
 	if(prob(50))
 		phrase = pick(socialrole.neutral_phrases)

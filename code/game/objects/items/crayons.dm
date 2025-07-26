@@ -874,7 +874,8 @@
 			H.update_body()
 		use_charges(user, 10, FALSE)
 		var/fraction = min(1, . / reagents.maximum_volume)
-		reagents.expose(carbon_target, VAPOR, fraction * volume_multiplier)
+		if(!HAS_TRAIT(carbon_target, TRAIT_NOBREATH))
+			reagents.expose(carbon_target, VAPOR, fraction * volume_multiplier)
 
 	else if(actually_paints && target.is_atom_colour(paint_color, min_priority_index = WASHABLE_COLOUR_PRIORITY))
 		balloon_alert(user, "[target.p_theyre()] already that color!")

@@ -374,9 +374,9 @@
 
 // recent examine defines
 /// How long it takes for an examined atom to be removed from recent_examines. Should be the max of the below time windows
-#define RECENT_EXAMINE_MAX_WINDOW (2 SECONDS)
+#define RECENT_EXAMINE_MAX_WINDOW (2.25 SECONDS) // AMLY EDIT: (2 SECONDS) to (2.25 SECONDS)
 /// If you examine the same atom twice in this timeframe, we call examine_more() instead of examine()
-#define EXAMINE_MORE_TIME (1 SECONDS)
+#define EXAMINE_MORE_TIME (2.25 SECONDS) // AMLY EDIT: (1 SECONDS) to (2.25 SECONDS)
 /// How far away you can be to make eye contact with someone while examining
 #define EYE_CONTACT_RANGE	5
 
