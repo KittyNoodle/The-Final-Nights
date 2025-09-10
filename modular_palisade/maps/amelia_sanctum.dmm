@@ -1,0 +1,251 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"a" = (
+/turf/closed/wall/vampwall,
+/area/space)
+"b" = (
+/obj/effect/decal/pallet,
+/obj/structure/closet/crate/large{
+	anchored = 1
+	},
+/turf/open/floor/plating/concrete,
+/area/space)
+"g" = (
+/obj/effect/decal/pallet,
+/obj/structure/closet/crate/large,
+/turf/open/floor/plating/concrete,
+/area/space)
+"h" = (
+/obj/effect/decal/bordur,
+/obj/structure/railing/metal,
+/turf/open/floor/plating/concrete,
+/area/space)
+"j" = (
+/obj/structure/table,
+/obj/item/wrench{
+	pixel_x = -5
+	},
+/obj/item/wirecutters{
+	pixel_y = 9
+	},
+/turf/open/floor/plating/concrete{
+	color = "#bfbfbf"
+	},
+/area/space)
+"k" = (
+/obj/machinery/light/dim{
+	dir = 8
+	},
+/turf/open/floor/plating/concrete,
+/area/space)
+"m" = (
+/obj/structure/rack,
+/turf/open/floor/plating/concrete{
+	color = "#bfbfbf"
+	},
+/area/space)
+"p" = (
+/obj/structure/table,
+/turf/open/floor/plating/concrete{
+	color = "#bfbfbf"
+	},
+/area/space)
+"q" = (
+/obj/effect/decal/pallet,
+/obj/structure/closet/crate/large{
+	anchored = 1
+	},
+/turf/open/floor/plating/concrete{
+	color = "#bfbfbf"
+	},
+/area/space)
+"s" = (
+/obj/structure/vampdoor/simple{
+	dir = 8
+	},
+/obj/effect/decal/bordur{
+	dir = 4
+	},
+/turf/open/floor/plating/sidewalk,
+/area/space)
+"v" = (
+/obj/effect/decal/bordur,
+/obj/structure/railing/metal,
+/obj/effect/decal/pallet,
+/obj/structure/closet/crate/large{
+	anchored = 1
+	},
+/turf/open/floor/plating/concrete,
+/area/space)
+"y" = (
+/obj/structure/closet/crate/large{
+	pixel_y = 43;
+	plane = 3;
+	pixel_x = 17;
+	anchored = 1;
+	density = 0
+	},
+/turf/open/floor/plating/concrete,
+/area/space)
+"D" = (
+/turf/open/floor/plating/concrete{
+	color = "#bfbfbf"
+	},
+/area/space)
+"F" = (
+/obj/structure/table,
+/obj/item/clothing/head/welding{
+	pixel_y = 16
+	},
+/obj/item/weldingtool{
+	pixel_y = 7;
+	pixel_x = 8
+	},
+/turf/open/floor/plating/concrete{
+	color = "#bfbfbf"
+	},
+/area/space)
+"G" = (
+/obj/machinery/light/dim{
+	pixel_y = 32
+	},
+/obj/structure/table,
+/turf/open/floor/plating/concrete,
+/area/space)
+"J" = (
+/turf/open/floor/plating/concrete,
+/area/space)
+"Q" = (
+/obj/structure/railing/metal{
+	dir = 8
+	},
+/turf/open/floor/plasteel/stairs,
+/area/space)
+"R" = (
+/obj/structure/table,
+/turf/open/floor/plating/concrete,
+/area/space)
+"U" = (
+/obj/effect/decal/bordur,
+/obj/structure/railing/metal/corner{
+	dir = 8
+	},
+/obj/machinery/light/dim{
+	dir = 4
+	},
+/turf/open/floor/plating/concrete,
+/area/space)
+"V" = (
+/obj/machinery/light/dim{
+	dir = 1
+	},
+/turf/open/floor/plating/concrete{
+	color = "#bfbfbf"
+	},
+/area/space)
+"W" = (
+/obj/structure/table,
+/obj/item/screwdriver{
+	pixel_y = 13;
+	pixel_x = 4
+	},
+/turf/open/floor/plating/concrete{
+	color = "#bfbfbf"
+	},
+/area/space)
+
+(1,1,1) = {"
+a
+a
+s
+a
+a
+a
+a
+a
+a
+a
+"}
+(2,1,1) = {"
+a
+J
+J
+k
+g
+v
+F
+p
+j
+a
+"}
+(3,1,1) = {"
+a
+b
+y
+J
+J
+h
+W
+D
+D
+a
+"}
+(4,1,1) = {"
+a
+b
+J
+J
+J
+h
+D
+D
+D
+a
+"}
+(5,1,1) = {"
+a
+G
+J
+J
+J
+h
+m
+D
+V
+a
+"}
+(6,1,1) = {"
+a
+R
+J
+J
+J
+h
+m
+D
+q
+a
+"}
+(7,1,1) = {"
+a
+g
+b
+g
+J
+U
+Q
+D
+q
+a
+"}
+(8,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+"}
