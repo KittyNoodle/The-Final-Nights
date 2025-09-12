@@ -74,11 +74,14 @@
 	},
 /area/space)
 "s" = (
-/obj/structure/vampdoor/simple{
-	dir = 8
-	},
 /obj/effect/decal/bordur{
 	dir = 4
+	},
+/obj/structure/vampdoor/simple{
+	dir = 8;
+	lockpick_difficulty = 14;
+	grant_apartment_key = 1;
+	apartment_key_type = /obj/item/vamp/keys/sanctum
 	},
 /turf/open/floor/plating/sidewalk,
 /area/space)
